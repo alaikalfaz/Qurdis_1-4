@@ -1,0 +1,20 @@
+{
+  "name": "Materi Ajar PAI - MI NU TBS Kudus",
+  "short_name": "Materi PAI",
+  "description": "Aplikasi Materi Ajar Pendidikan Agama Islam - MI NU TBS Kudus",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYryxoUxqyRIrWLkqi-iiss1qJ4lLV2GCxVU9CztIr72jMEuQY_uhZqW7f6W3B6qPyeIx0Xudo2N-2ONum9QXx6PkB3Mqcawgll42jWpXjSk7GKqSVmCgYvD3h2CdqrhaHyV0y6he047FE2FwhBObL2HbUNhv-ZgiwEdTWAfrFcpfrw/s220/LOGO%20TBS.png",
+      "sizes": "220x220",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "books"],
+  "lang": "id"
+}
