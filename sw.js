@@ -1,4 +1,4 @@
-const CACHE_NAME = 'materi-pai-v1';
+const CACHE_NAME = 'materi-pai-v3';
 const urlsToCache = [
   '/',
   '/index.html'
